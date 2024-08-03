@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playwrite+MX:wght@100..400&display=swap');
 @font-face {
     font-family: idroid;
-    src: url('/fontes/idroid.otf') format('opentype');
+    src: url('/fonts/idroid.otf') format('opentype');
 }
 
 :root {
